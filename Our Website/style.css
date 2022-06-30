@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  background-color: black;
+  color: palevioletred;
+  flex-direction: column;
+}
+header {
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+.taco {
+  color: aqua;
+  font-weight: bold;
+}
+
+#one {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
